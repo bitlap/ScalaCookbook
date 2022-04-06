@@ -21,7 +21,6 @@ Scala Cookbook 2nd Edition中文翻译
 - operator 操作符
 - type inference system 类型推断系统
 - pattern matching 模式匹配
-- TODO 有比较好的可以自己加
 - Problem 问题
 - Solution 解决方法
 - Discussion 讨论
@@ -29,3 +28,6 @@ Scala Cookbook 2nd Edition中文翻译
 - varargs 可变参数
 - function literals 函数字面量
 - partially applied functions 部分应用函数
+
+
+- TODO 有比较好的可以自己加
