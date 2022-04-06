@@ -25,3 +25,7 @@ Scala Cookbook 2nd Edition中文翻译
 - Problem 问题
 - Solution 解决方法
 - Discussion 讨论
+- implicit conversions 隐式转换
+- varargs 可变参数
+- function literals 函数字面量
+- partially applied functions 部分应用函数
