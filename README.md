@@ -32,6 +32,7 @@ Scala Cookbook 2nd Edition中文翻译
 - partially applied functions 部分应用函数
 - light 轻量
 - dynamic type 动态类型
+- import 导入
 
 
 - TODO 有比较好的可以自己加
