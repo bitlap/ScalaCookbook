@@ -4,7 +4,9 @@ Scala Cookbook 2nd Edition中文翻译
 
 # 术语字典
 
-> 注意字体的斜体、加粗、段落、数字、空格
+> 注意字体的斜体、加粗、段落、数字、空格，参考`序言.md`
+
+> TODO 有比较好的可以自己加
 
 - primary constructor  主构造函数
 - auxiliary constructors 辅助构造函数
