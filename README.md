@@ -30,6 +30,8 @@ Scala Cookbook 2nd Edition中文翻译
 - varargs 可变参数
 - function literals 函数字面量
 - partially applied functions 部分应用函数
+- light 轻量
+- dynamic type 动态类型
 
 
 - TODO 有比较好的可以自己加
