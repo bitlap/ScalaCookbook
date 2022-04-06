@@ -8,6 +8,8 @@ Scala Cookbook 2nd Edition中文翻译
 
 > TODO 有比较好的可以自己加
 
+官网参考术语：https://docs.scala-lang.org/zh-cn/cheatsheets/index.html
+
 - primary constructor  主构造函数
 - auxiliary constructors 辅助构造函数
 - case class 样例类
@@ -33,6 +35,3 @@ Scala Cookbook 2nd Edition中文翻译
 - light 轻量
 - dynamic type 动态类型
 - import 导入
-
-
-- TODO 有比较好的可以自己加
