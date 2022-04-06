@@ -4,6 +4,8 @@ Scala Cookbook 2nd Edition中文翻译
 
 # 术语字典
 
+> 注意字体的斜体、加粗、段落、数字、空格
+
 - primary constructor  主构造函数
 - auxiliary constructors 辅助构造函数
 - case class 样例类
