@@ -8,6 +8,8 @@ Scala Cookbook 2nd Edition中文翻译
 
 > TODO 有比较好的可以自己加
 
+> 老外的地址和人名不用翻译！
+
 官网参考术语：https://docs.scala-lang.org/zh-cn/cheatsheets/index.html
 
 - primary constructor  主构造函数
