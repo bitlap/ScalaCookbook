@@ -16,6 +16,9 @@ Scala Cookbook 2nd Edition中文翻译
 - auxiliary constructors 辅助构造函数
 - case class 样例类
 - trait 特质
+- enum 枚举
+- intersection types 交叉类型  待定 
+- union types 联合类型
 - with/mixins 混入
 - recipes 方法、技巧、例子 看具体语境，或者参考第一版
 - class file    class文件
@@ -40,3 +43,4 @@ Scala Cookbook 2nd Edition中文翻译
 - expressions和statements同时在上下文中，expressions为表达式， 一般statements表示语句
 - statements单独存在，声明/语句，看语境
 - project 项目/工程，我喜欢在sbt语境上下文中用 工程
+- concrete 具体的  待定
