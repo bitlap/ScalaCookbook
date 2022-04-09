@@ -50,3 +50,4 @@ Scala Cookbook 2nd Edition中文翻译
 - Create Sets of Named Values with Enums  使用枚举创建命名值集
 - intersection types 交叉类型  待定
 - constructor parameters 构造器参数
+- orthogonal behavior 正交行为
