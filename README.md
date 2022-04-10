@@ -55,3 +55,4 @@ Scala Cookbook 2nd Edition中文翻译
 - orthogonal behavior 正交行为
 - back to front linearization 从后向前的线性化
 - self-type 自我类型
+- contractual 契约
