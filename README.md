@@ -12,6 +12,8 @@ Scala Cookbook 2nd Edition中文翻译
 
 官网参考术语：https://docs.scala-lang.org/zh-cn/cheatsheets/index.html
 
+英文PDF原版链接: https://pan.baidu.com/s/1O_3qixt8xt7Zmz2aTD_0JQ  密码: b9o6 （不要外泄）
+
 - primary constructor  主构造函数
 - auxiliary constructors 辅助构造函数
 - case class 样例类
