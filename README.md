@@ -32,7 +32,7 @@ Scala Cookbook 2nd Edition中文翻译
 - type inference system 类型推断系统
 - pattern matching 模式匹配
 - Problem 问题
-- Solution 解决方法
+- Solution 解决方案
 - Discussion 讨论
 - implicit conversions 隐式转换
 - varargs 可变参数
