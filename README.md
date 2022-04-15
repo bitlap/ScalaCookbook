@@ -57,3 +57,6 @@ Scala Cookbook 2nd Edition中文翻译
 - self-type 自我类型
 - contractual 契约
 - structural type 结构化类型
+- reify 具体化
+- wiring 缝合
+- concept 概念
