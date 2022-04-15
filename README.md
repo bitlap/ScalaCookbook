@@ -40,3 +40,8 @@ Scala Cookbook 2nd Edition中文翻译
 - expressions和statements同时在上下文中，expressions为表达式， 一般statements表示语句
 - statements单独存在，声明/语句，看语境
 - project 项目/工程，我喜欢在sbt语境上下文中用 工程
+- hierarchy 层次
+
+# 其他
+
+1. 图片存在根目录 images里面，按照章节分别存储，如ch1，ch2
