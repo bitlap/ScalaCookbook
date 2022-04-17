@@ -41,6 +41,12 @@ Scala Cookbook 2nd Edition中文翻译
 - statements单独存在，声明/语句，看语境
 - project 项目/工程，我喜欢在sbt语境上下文中用 工程
 - hierarchy 层次
+- error 错误 
+- exception 异常
+- see also 另见
+- lifetime 生命周期
+- examples 例子
+- message 消息
 
 # 其他
 
