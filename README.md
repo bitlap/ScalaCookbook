@@ -12,6 +12,8 @@ Scala Cookbook 2nd Edition中文翻译
 
 官网参考术语：https://docs.scala-lang.org/zh-cn/cheatsheets/index.html
 
+官网中文翻译：https://docs.scala-lang.org/zh-cn/tour/
+
 - primary constructor  主构造函数
 - auxiliary constructors 辅助构造函数
 - case class 样例类
