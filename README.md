@@ -49,6 +49,7 @@ Scala Cookbook 2nd Edition中文翻译
 - lifetime 生命周期
 - examples 例子
 - message 消息
+- equation 等式
 
 # 其他
 
