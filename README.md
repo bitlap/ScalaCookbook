@@ -12,7 +12,11 @@ Scala Cookbook 2nd Edition中文翻译
 
 官网参考术语：https://docs.scala-lang.org/zh-cn/cheatsheets/index.html
 
+
 英文PDF原版链接: https://pan.baidu.com/s/1O_3qixt8xt7Zmz2aTD_0JQ  密码: b9o6 （不要外泄）
+
+官网中文翻译：https://docs.scala-lang.org/zh-cn/tour/
+
 
 - primary constructor  主构造函数
 - auxiliary constructors 辅助构造函数
@@ -61,3 +65,14 @@ Scala Cookbook 2nd Edition中文翻译
 - wiring 缝合
 - concept 概念
 - hybrid types 复合类型
+- hierarchy 层次
+- error 错误 
+- exception 异常
+- see also 另见
+- lifetime 生命周期
+- examples 例子
+- message 消息
+
+# 其他
+
+1. 图片存在根目录 images里面，按照章节分别存储，如ch1，ch2
