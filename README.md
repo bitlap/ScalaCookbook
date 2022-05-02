@@ -76,6 +76,7 @@ Scala Cookbook 2nd Edition中文翻译
 - message 消息
 - equation 等式
 - transformer 转换器
+- partial function 偏函数
 
 # 其他
 
