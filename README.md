@@ -78,6 +78,7 @@ Scala Cookbook 2nd Edition中文翻译
 - transformer 转换器
 - partial function 偏函数
 - flatten 扁平化
+- transitive dependency 传递依赖
 
 # 其他
 
