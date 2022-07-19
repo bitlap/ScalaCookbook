@@ -1,4 +1,4 @@
-Scala Cookbook 2nd Edition中文翻译
+Scala Cookbook 2nd Edition中文
 ---
 
 [Gitbook预览地址](https://bitlap.gitbook.io/scalacookbook2/IUm1FxUIEGiFf76fby9v/)
@@ -23,7 +23,7 @@ Scala Cookbook 2nd Edition中文翻译
 15. 集合：Tuple、Range、Set、Stack和Queue
 16. 文件和进程
 17. [使用sbt构建项目](./17.使用sbt构建项目.md)
-18. [Scala Futures的并发和AkkaActors](./18.Scala%20Futures的并发和AkkaActors.md)
+18. [Scala Futures的并发和AkkaActors](./18.Scala%20Futures和Akka%20Actors的并发.md)
 19. Play Framework和web服务
 20. [Apache Spark](./20.Apache%20Spark.md)
 21. Scala.js、GraalVM和jpackage
