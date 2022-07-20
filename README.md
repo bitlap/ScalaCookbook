@@ -1,85 +1,50 @@
-Scala Cookbook 2nd Edition中文翻译
+Scala Cookbook 2nd Edition中文
+---
 
 [Gitbook预览地址](https://bitlap.gitbook.io/scalacookbook2/IUm1FxUIEGiFf76fby9v/)
 
-[注意事项](./注意事项.md)
+# 总负责人
+ 
+- [梦境迷离](https://github.com/jxnu-liguobin)
 
-# 术语字典
+# 审校
 
-> 注意字体的斜体、加粗、段落、数字、空格，参考`0.序言.md`
+1. [Neo Lin](https://github.com/neomaclin) - 第一审校人
+2. [zhuqingchao](https://github.com/zhuqingchao)
+3. [明扬](https://github.com/mingyang91)
+4. ...
 
-> TODO 有比较好的可以自己加
+# 排版
 
-> 老外的地址和人名不用翻译！
+- [梦境迷离](https://github.com/jxnu-liguobin)
+- [IceMimosa](https://github.com/IceMimosa)
 
-官网参考术语：https://docs.scala-lang.org/zh-cn/cheatsheets/index.html
+# 章节明细
 
-
-英文PDF原版链接: https://pan.baidu.com/s/1O_3qixt8xt7Zmz2aTD_0JQ  密码: b9o6 （不要外泄）
-
-官网中文翻译：https://docs.scala-lang.org/zh-cn/tour/
-
-
-- primary constructor  主构造函数
-- auxiliary constructors 辅助构造函数
-- case class 样例类
-- trait 特质
-- enum 枚举
-- union types 联合类型
-- with/mixins 混入
-- recipes 方法、技巧、例子 看具体语境，或者参考第一版相同部分，Recipe6.6 => 6.6小节
-- class file    class文件
-- implicit 隐式，或者不翻译，看情况。大部分情况下关键字不翻译，如Scala3的given和using
-- type class 类型类
-- expressive 表达式
-- method 方法
-- function 函数  或者功能，看情况
-- operator 操作符
-- type inference system 类型推断系统
-- pattern matching 模式匹配
-- Problem 问题
-- Solution 解决方案
-- Discussion 讨论
-- implicit conversions 隐式转换
-- varargs 可变参数
-- function literals 函数字面量
-- partially applied functions 部分应用函数
-- light 轻量
-- dynamic type 动态类型
-- import 导入
-- expressions和statements同时在上下文中，expressions为表达式， 一般statements表示语句
-- statements单独存在，声明/语句，看语境
-- project 项目/工程，我喜欢在sbt语境上下文中用 工程
-
-
-# 术语待定
-
-- concrete 具体的  待定
-- Create Sets of Named Values with Enums  使用枚举创建命名值集
-- intersection types 相交类型  待定
-- constructor parameters 构造器参数
-- orthogonal behavior 正交行为
-- back to front linearization 从后向前的线性化
-- self-type 自我类型
-- contractual 契约
-- structural type 结构化类型
-- reify 具体化
-- wiring 缝合
-- concept 概念
-- hybrid types 复合类型
-- hierarchy 层次
-- error 错误 
-- exception 异常
-- see also 另见
-- lifetime 生命周期
-- examples 例子
-- message 消息
-- equation 等式
-- transformer 转换器
-- partial function 偏函数
-- flatten 扁平化
-- transitive dependency 传递依赖
-
-# 其他
-
-1. 图片存在根目录 images里面，按照章节分别存储，如ch1，ch2
+| 章节                                                                         | 负责人                                             |
+|----------------------------------------------------------------------------|-------------------------------------------------|
+| [0.序言](0.序言.md)                                                            | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| [1.命令行任务](./1.命令行任务.md)                                                    | [hxx0215](https://github.com/hxx0215)           |
+| [2.字符串](./2.字符串.md)                                                        | [hxx0215](https://github.com/hxx0215)           |
+| [3.数值和日期](./3.数值和日期.md)                                                    | [IceMimosa](https://github.com/IceMimosa)       |
+| 4.控制结构                                                                     | [Donvi](https://github.com/Donvi)               |
+| [5.类](./5.类.md)                                                            | [hxx0215](https://github.com/hxx0215)           |
+| [6.特质和枚举](./6.特质和枚举.md)                                                    | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| [7.对象](./7.对象.md)                                                          | [IceMimosa](https://github.com/IceMimosa)       |
+| [8.方法](./8.方法.md)                                                          | [IceMimosa](https://github.com/IceMimosa)       |
+| [9.包和导入](./9.包和导入.md)                                                      | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| [10.函数式编程](./10.函数式编程.md)                                                  | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| [11.集合：介绍](./11.集合：介绍.md)                                                  | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| [12.集合：常见序列](./12.集合：常见序列类.md)                                             | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| 13.集合：通用的序列方法                                                              | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| [14.集合：Map的使用](./14.集合：Map的使用.md)                                          | [IceMimosa](https://github.com/IceMimosa)       |
+| 15.集合：Tuple、Range、Set、Stack和Queue                                          | [IceMimosa](https://github.com/IceMimosa)       |
+| 16.文件和进程                                                                   | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| [17.使用sbt构建项目](./17.使用sbt构建项目.md)                                          | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| [18.Scala Futures的并发和AkkaActors](./18.Scala%20Futures和Akka%20Actors的并发.md) | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| 19.Play Framework和web服务                                                    | [hxx0215](https://github.com/hxx0215)           |
+| [20.Apache Spark](./20.Apache%20Spark.md)                                  | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| 21.Scala.js、GraalVM和jpackage                                               | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| 22.Scala与Java的集成                                                           | [hxx0215](https://github.com/hxx0215)           |
+| 23.类型                                                                      | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| 24.最佳实践                                                                    | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
