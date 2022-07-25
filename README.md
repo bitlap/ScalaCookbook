@@ -36,7 +36,7 @@ Scala Cookbook 2nd Edition中文
 | [10.函数式编程](./10.函数式编程.md)                                                  | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [11.集合：介绍](./11.集合：介绍.md)                                                  | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
 | [12.集合：常见序列](./12.集合：常见序列类.md)                                             | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
-| 13.集合：通用的序列方法                                                              | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| [13.集合：通用的序列方法](13.集合：常见序列方法.md)                                           | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
 | [14.集合：Map的使用](./14.集合：Map的使用.md)                                          | [IceMimosa](https://github.com/IceMimosa)       |
 | 15.集合：Tuple、Range、Set、Stack和Queue                                          | [IceMimosa](https://github.com/IceMimosa)       |
 | 16.文件和进程                                                                   | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
