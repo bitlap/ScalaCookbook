@@ -25,12 +25,12 @@ Scala Cookbook 2nd Edition中文翻译
 - case class 样例类
 - trait 特质
 - enum 枚举
-- union types 联合类型
+- union types 并集类型
 - with/mixins 混入
 - recipes 方法、技巧、例子 看具体语境，或者参考第一版相同部分，Recipe6.6 => 6.6小节
 - class file    class文件
 - implicit 隐式，或者不翻译，看情况。大部分情况下关键字不翻译，如Scala3的given和using
-- type class 类型类
+- type class 类型族
 - expressive 表达式
 - method 方法
 - function 函数  或者功能，看情况
@@ -56,7 +56,7 @@ Scala Cookbook 2nd Edition中文翻译
 
 - concrete 具体的  待定
 - Create Sets of Named Values with Enums  使用枚举创建命名值集
-- intersection types 相交类型  待定
+- intersection types 交集类型  来自Scala编程5版的翻译
 - constructor parameters 构造器参数
 - orthogonal behavior 正交行为
 - back to front linearization 从后向前的线性化
