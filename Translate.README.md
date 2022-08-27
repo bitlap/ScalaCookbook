@@ -50,7 +50,10 @@ Scala Cookbook 2nd Edition中文翻译
 - expressions和statements同时在上下文中，expressions为表达式， 一般statements表示语句
 - statements单独存在，声明/语句，看语境
 - project 项目/工程，我喜欢在sbt语境上下文中用 工程
-
+- type class 类型族
+- context bound 上下文界定
+- universal equality  通用相等性
+- multiversal equality 跨界相等性
 
 # 术语待定
 
