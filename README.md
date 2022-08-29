@@ -22,7 +22,7 @@ Scala Cookbook 2nd Edition中文
 # 章节明细
 
 | 章节                                                                          | 负责人                                             |
-| --------------------------------------------------------------------------- | ----------------------------------------------- |
+|-----------------------------------------------------------------------------|-------------------------------------------------|
 | [0.序言](0.序言.md)                                                             | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [1.命令行任务](./1.命令行任务.md)                                                     | [hxx0215](https://github.com/hxx0215)           |
 | [2.字符串](./2.字符串.md)                                                         | [hxx0215](https://github.com/hxx0215)           |
@@ -39,12 +39,12 @@ Scala Cookbook 2nd Edition中文
 | [13.集合：通用的序列方法](13.集合：常见序列方法.md)                                            | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
 | [14.集合：Map的使用](./14.集合：Map的使用.md)                                           | [IceMimosa](https://github.com/IceMimosa)       |
 | [15.集合：Tuple、Range、Set、Stack和Queue](./15.集合：Tuple、Range、Set、Stack和Queue.md) | [IceMimosa](https://github.com/IceMimosa)       |
-| 16.文件和进程                                                                    | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
+| [16.文件和进程](./16.文件和进程.md)                                                                  | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
 | [17.使用sbt构建项目](./17.使用sbt构建项目.md)                                           | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [18.Scala Futures和Akka Actors的并发](./18.Scala%20Futures和Akka%20Actors的并发.md) | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
 | 19.Play Framework和web服务                                                     | [hxx0215](https://github.com/hxx0215)           |
 | [20.Apache Spark](./20.Apache%20Spark.md)                                   | [梦境迷离](https://github.com/jxnu-liguobin)        |
-| 21.Scala.js、GraalVM和jpackage                                                | [梦境迷离](https://github.com/jxnu-liguobin)        |
-| 22.Scala与Java的集成                                                            | [hxx0215](https://github.com/hxx0215)           |
+| [21.Scala.js、GraalVM和jpackage](./21.Scala.js、GraalVM和jpackage)              | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| [22.Scala与Java集成](./22.Scala与Java集成)                                        | [hxx0215](https://github.com/hxx0215)           |
 | 23.类型                                                                       | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | 24.最佳实践                                                                     | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
