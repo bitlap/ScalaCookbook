@@ -42,7 +42,7 @@ Scala Cookbook 2nd Edition中文
 | [16.文件和进程](./16.文件和进程.md)                                                   | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
 | [17.使用sbt构建项目](./17.使用sbt构建项目.md)                                           | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [18.Scala Futures和Akka Actors的并发](./18.Scala%20Futures和Akka%20Actors的并发.md) | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
-| [19.Play Framework和web服务](./19. Play 框架和 Web 服务.md)                         | [hxx0215](https://github.com/hxx0215)           |
+| [19.Play Framework和web服务](./19.Play%20框架和%20Web%20服务.md)                    | [hxx0215](https://github.com/hxx0215)           |
 | [20.Apache Spark](./20.Apache%20Spark.md)                                   | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [21.Scala.js、GraalVM和jpackage](./21.Scala.js、GraalVM和jpackage)              | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [22.Scala与Java集成](./22.Scala与Java集成)                                        | [hxx0215](https://github.com/hxx0215)           |
