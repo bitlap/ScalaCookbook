@@ -46,5 +46,5 @@ Scala Cookbook 2nd Edition中文
 | [20.Apache Spark](./20.Apache%20Spark.md)                                   | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [21.Scala.js、GraalVM和jpackage](./21.Scala.js、GraalVM和jpackage)              | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [22.Scala与Java集成](./22.Scala与Java集成)                                        | [hxx0215](https://github.com/hxx0215)           |
-| 23.类型                                                                       | [梦境迷离](https://github.com/jxnu-liguobin)        |
+| [23.类型](./23.类型.md)                                                         | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [24.最佳实践](./24.最佳实践.md)                                                     | [xiaozhiliaoo](https://github.com/xiaozhiliaoo) |
