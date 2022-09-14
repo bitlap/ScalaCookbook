@@ -9,11 +9,11 @@ Scala Cookbook 2nd Edition中文
 
 # 审校
 
-1. [Neo Lin](https://github.com/neomaclin) - 第一审校人
-2. [zhuqingchao](https://github.com/zhuqingchao)
-3. [明扬](https://github.com/mingyang91)
-4. [Kerr]()
-4. [Counter]()
+1. Neo Lin - 第一审校人
+2. zhuqingchao
+3. 明扬
+4. Kerr
+4. Counter
 
 # 排版
 
