@@ -1,7 +1,12 @@
 Scala Cookbook 2nd Edition中文
 ---
+![https://item.jd.com/14161936.html](logo.jpeg)
 
-[Gitbook预览地址](https://bitlap.gitbook.io/scalacookbook2/IUm1FxUIEGiFf76fby9v/)
+本仓库是首版草稿，有很多语言和描述上的不足甚至错误，仅供参考。有感兴趣的可以去购买正版，支持一下！
+
+- 京东 https://item.jd.com/14161936.html
+- 当当 https://product.dangdang.com/29630059.html
+- Gitbook https://dreamylost.gitbook.io/scalacookbook2/
 
 # 总负责人
 
@@ -13,7 +18,7 @@ Scala Cookbook 2nd Edition中文
 2. zhuqingchao
 3. 明扬
 4. Kerr
-4. Counter
+5. Counter
 
 # 排版
 
@@ -23,7 +28,7 @@ Scala Cookbook 2nd Edition中文
 # 章节明细
 
 | 章节                                                                          | 负责人                                             |
-| --------------------------------------------------------------------------- | ----------------------------------------------- |
+|-----------------------------------------------------------------------------|-------------------------------------------------|
 | [0.序言](0.序言.md)                                                             | [梦境迷离](https://github.com/jxnu-liguobin)        |
 | [1.命令行任务](./1.命令行任务.md)                                                     | [hxx0215](https://github.com/hxx0215)           |
 | [2.字符串](./2.字符串.md)                                                         | [hxx0215](https://github.com/hxx0215)           |

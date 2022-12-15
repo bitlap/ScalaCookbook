@@ -1,9 +1,5 @@
 Scala Cookbook 2nd Edition中文翻译
 
-[Gitbook预览地址](https://bitlap.gitbook.io/scalacookbook2/IUm1FxUIEGiFf76fby9v/)
-
-[注意事项](./注意事项.md)
-
 # 术语字典
 
 > 注意字体的斜体、加粗、段落、数字、空格，参考`0.序言.md`
