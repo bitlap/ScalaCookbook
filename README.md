@@ -12,8 +12,9 @@ Scala Cookbook 2nd Edition中文
 - 当当 https://product.dangdang.com/29630059.html
 - Gitbook https://dreamylost.gitbook.io/scalacookbook2/
 
-# B站讲解视频
-- Up主[资深Scala摸鱼师](https://space.bilibili.com/60152799)，讲解人：梦境迷离
+# 讲解视频
+- 哔哩哔哩：[资深Scala摸鱼师](https://space.bilibili.com/60152799)
+- 抖音：[梦境迷离](https://m.douyin.com/share/user/MS4wLjABAAAAhqbonLqrR1L8jMW_90iRgxbRnXKnCFbDGNZE5Prwfno)
 
 # 总负责人
 
