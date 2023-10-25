@@ -10,6 +10,7 @@ Scala Cookbook 2nd Edition中文
 
 - 京东 https://item.jd.com/14161936.html
 - 当当 https://product.dangdang.com/29630059.html
+- 淘宝 https://detail.tmall.com/item.htm?id=739696646631
 - Gitbook https://dreamylost.gitbook.io/scalacookbook2/
 
 # 讲解视频
